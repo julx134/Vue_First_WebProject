@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+![](images/screenshot.JPG)
+![](images/db_screenshot.JPG)
